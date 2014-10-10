@@ -1,18 +1,18 @@
 //
-//  ViewController.m
+//  CreateAccountViewController.m
 //  NSUser Defaulte, Segues, and Protocols Solution
 //
 //  Created by Brian Starr on 10/10/14.
 //  Copyright (c) 2014 Brian Starr. All rights reserved.
 //
 
-#import "ViewController.h"
+#import "CreateAccountViewController.h"
 
-@interface ViewController ()
+@interface CreateAccountViewController ()
 
 @end
 
-@implementation ViewController
+@implementation CreateAccountViewController
 
 - (void)viewDidLoad {
     [super viewDidLoad];

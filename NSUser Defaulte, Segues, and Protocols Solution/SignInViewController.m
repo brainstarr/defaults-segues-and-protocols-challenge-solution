@@ -1,18 +1,18 @@
 //
-//  ViewController.m
+//  SignInViewController.m
 //  NSUser Defaulte, Segues, and Protocols Solution
 //
 //  Created by Brian Starr on 10/10/14.
 //  Copyright (c) 2014 Brian Starr. All rights reserved.
 //
 
-#import "ViewController.h"
+#import "SignInViewController.h"
 
-@interface ViewController ()
+@interface SignInViewController ()
 
 @end
 
-@implementation ViewController
+@implementation SignInViewController
 
 - (void)viewDidLoad {
     [super viewDidLoad];
