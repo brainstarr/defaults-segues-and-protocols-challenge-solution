@@ -34,4 +34,11 @@
 }
 */
 
+- (IBAction)createAccountCancelButton:(id)sender {
+    [self.delegate didCreateAccount];
+}
+
+- (IBAction)createAccountButton:(id)sender {
+    [self.delegate didCancel];
+}
 @end
