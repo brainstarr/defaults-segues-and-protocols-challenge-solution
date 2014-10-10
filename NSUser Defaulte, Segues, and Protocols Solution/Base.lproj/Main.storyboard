@@ -13,6 +13,7 @@
                         <viewControllerLayoutGuide type="bottom" id="pLq-e5-Gfa"/>
                     </layoutGuides>
                     <view key="view" contentMode="scaleToFill" id="0Os-6s-6S8">
+                        <rect key="frame" x="0.0" y="0.0" width="600" height="600"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
                             <textField opaque="NO" clipsSubviews="YES" contentMode="scaleToFill" contentHorizontalAlignment="left" contentVerticalAlignment="center" borderStyle="roundedRect" placeholder="Password" minimumFontSize="17" translatesAutoresizingMaskIntoConstraints="NO" id="dk0-BP-II2">
@@ -99,6 +100,7 @@
                         <viewControllerLayoutGuide type="bottom" id="tzx-ez-1Ce"/>
                     </layoutGuides>
                     <view key="view" contentMode="scaleToFill" id="Ygh-OM-nRF">
+                        <rect key="frame" x="0.0" y="0.0" width="600" height="600"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
                             <textField opaque="NO" clipsSubviews="YES" contentMode="scaleToFill" contentHorizontalAlignment="left" contentVerticalAlignment="center" borderStyle="roundedRect" placeholder="User Name" minimumFontSize="17" translatesAutoresizingMaskIntoConstraints="NO" id="hMv-4e-3WO">
@@ -201,6 +203,7 @@
                         <viewControllerLayoutGuide type="bottom" id="dWS-V5-gni"/>
                     </layoutGuides>
                     <view key="view" contentMode="scaleToFill" id="lRp-to-D36">
+                        <rect key="frame" x="0.0" y="0.0" width="600" height="600"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Label" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="Kze-Ua-TPu">
